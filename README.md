@@ -7,4 +7,6 @@ Bem-vindo ao Memory Game! Neste repositório, você encontrará um jogo da memó
 - HTML5 e CSS3 para a estrutura e aparência do jogo.
 - JavaScript para a lógica de programação e inserção dos emojis de forma dinâmica.
 
-Divirta-se jogando o Memory Game com o link abaixo!!! 🎮
+# Divirta-se jogando o Memory Game com o link abaixo!!! 🎮
+
+https://moiseesmedeiroos.github.io/memory-gameMoises/
